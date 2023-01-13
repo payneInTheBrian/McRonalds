@@ -48,6 +48,7 @@ bcrypt, connect-mongo, dotenv, ejs, express, express-flash, express-session, mon
   - Add React so the whole page does not rerender when you add an item to the order
   
 # Other cool projects like this one
-  - [SetLiszt](https://github.com/iPlayDrumsOnMyGuitar/Setliszt)
   - [Cloud Sounds](https://cloudsounds.cyclic.app/)
+  - [SetLiszt](https://github.com/iPlayDrumsOnMyGuitar/Setliszt)
+  
   
